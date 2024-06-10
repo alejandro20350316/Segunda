@@ -2,3 +2,4 @@ Tema 1. Gitkraken
 Tema 2. GitGUI 
 Tema 3. Gitcola 
 Tema 4. SublimeMergue 
+De Alejandro Rojas García
